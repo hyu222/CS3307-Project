@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>The Application.</DisplayName>
+    <Description>Install this application.</Description>
+    <Version>0.1.0-1</Version>
+    <ReleaseDate>2016-12-07</ReleaseDate>
+    <Default>script</Default>
+    <Script>installscript.qs</Script>
+</Package>

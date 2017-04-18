@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>TeamLynx</Name>
+    <Version>1.0.0</Version>
+    <Title>TeamLynx Installer</Title>
+    <Publisher>Team Lynx</Publisher>
+    <StartMenuDir>Team Lynx</StartMenuDir>
+    <TargetDir>@HomeDir@/TeamLynx</TargetDir>
+</Installer>
